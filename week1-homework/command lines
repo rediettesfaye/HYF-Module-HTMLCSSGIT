@@ -1,0 +1,10 @@
+mkdir .foldertohide
+          
+touch .filetohide
+ls -a 
+to view hidden files 
+ mkdir -p drfr/ddfdf/gfg
+ to create multiple nested directories 
+ echo -n "some text here" >> commannd.txt
+ printf %s "some text here" >> command.txt
+ To append a message to a file, without a newline character
