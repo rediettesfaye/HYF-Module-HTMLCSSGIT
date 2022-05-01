@@ -1,0 +1,48 @@
+.header {
+    background-image: url(background.jpg)
+
+}
+.main_body {
+    background-color:white;
+    height:620px;
+    width: 100%;
+}
+.profile{
+    background-color: white;
+    float: right;
+    width: 70%;
+    height: 600px;
+
+}
+.border{
+    border-top: 1px solid rgb(222, 222, 222);
+    border-bottom: 1px solid rgb(222, 222, 222);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+
+
+}
+.footer{
+    background-color:#00a390;
+   bottom: 0;
+
+}
+.side-profile{
+    float: left;
+    width: 26%;
+    color: white;
+    background-color:#025850;
+    height: 580px;
+    text-align:center;
+    padding: 20px;
+
+}
+#h1{
+    position: absolute;
+    text-align: center;
+    top: 70px;
+    left: 350px;
+    color: rgba(14, 15, 3, 0.925);
+
+}
